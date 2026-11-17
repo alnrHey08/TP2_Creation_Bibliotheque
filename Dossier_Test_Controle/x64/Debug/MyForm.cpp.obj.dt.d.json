@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexa\\documents\\2026-2027\\cours\\ir\\.net\\visualstudio\\testcontrol\\myform.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\alexa\\documents\\2026-2027\\cours\\ir\\.net\\visualstudio\\testcontrol\\myform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

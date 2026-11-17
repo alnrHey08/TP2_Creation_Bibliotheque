@@ -1,0 +1,4 @@
+C:\Users\Alexa\Documents\2026-2027\COURS\IR\.NET\VisualStudio\TestControl\x64\Debug\TestControl.vcxproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\2026-2027\COURS\IR\.NET\VisualStudio\TestControl\x64\Debug\TestControl.MyForm.resources
+C:\Users\Alexa\Documents\2026-2027\COURS\IR\.NET\VisualStudio\TestControl\x64\Debug\TestControl.vcxproj.GenerateResource.cache
+C:\Users\Alexa\Documents\2026-2027\COURS\IR\.NET\VisualStudio\TestControl\x64\Debug\TestCont.5E1E5F6A.Up2Date
