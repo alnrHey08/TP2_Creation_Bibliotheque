@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../TestControl/TestControl.vcxproj" />
+  <Project Path="ProjetControle.vcxproj" />
+</Solution>

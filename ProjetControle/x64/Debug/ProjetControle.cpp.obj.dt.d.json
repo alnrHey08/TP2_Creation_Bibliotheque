@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexa\\documents\\2026-2027\\cours\\ir\\.net\\visualstudio\\projetcontrole\\projetcontrole.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\alexa\\documents\\2026-2027\\cours\\ir\\.net\\visualstudio\\projetcontrole\\pch.h",
+            "c:\\users\\alexa\\documents\\2026-2027\\cours\\ir\\.net\\visualstudio\\projetcontrole\\projetcontrole.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ProjetControle\\x64\\Debug\\ProjetControle.obj",
+            "outputs": [
+                "ProjetControle\\x64\\Debug\\ProjetControle.cpp.obj.dt.module.json",
+                "ProjetControle\\x64\\Debug\\ProjetControle.cpp.obj.dt.d.json",
+                "ProjetControle\\x64\\Debug\\ProjetControle.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
